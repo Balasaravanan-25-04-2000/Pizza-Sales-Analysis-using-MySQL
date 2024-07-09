@@ -1,1 +1,1 @@
-# Pizza-Sales-Analysis-using-MySQL
+This SQL code implementation analyzes Pizza Sales Data for a specific year, revealing key performance indicators and trends to offer actionable insights for improving future sales. The dataset is sourced from Kaggle, and MySQL is utilized for this solution.
